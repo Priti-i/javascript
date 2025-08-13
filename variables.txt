@@ -15,3 +15,20 @@ what is javascript :-
 
    3.  const -its a constant and slo block-scope.
 
+   Javascript Data Type:
+   Number
+   Boolean
+   string 
+   BigInt
+   Undefined
+   null
+   symbol
+   boject
+   Array
+
+   types of operators in javascript
+   Arithmatic operator: +, -, *, \
+   Assignment operator:=, +=, -+,*=  ,/=,>=,<=,==
+   bitwise operator :& ,| ,!
+
+
