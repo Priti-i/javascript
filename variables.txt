@@ -6,14 +6,14 @@ what is javascript :-
    of Java. In 1997, it was standardized as ECMAScript by ECMA International. 
 
    variables in javascript
-   there are three thye of variables 
+   there are three thpe of variables 
    1. var - you can redeclear the variable ,Has function-level scope. This means a variable declared with
     var is accessible anywhere within the function it's declared in, regardless of block statements
 
-   2. let - it is block scope ,This means a variable declared with let is only accessible within the block
+   2. let - It is block scope ,This means a variable declared with let is only accessible within the block
     (curly braces {}) where it is defined.
 
-   3.  const -its a constant and slo block-scope.
+   3.  const -its a constant and also block-scope.
 
    Javascript Data Type:
    Number
@@ -28,7 +28,17 @@ what is javascript :-
 
    types of operators in javascript
    Arithmatic operator: +, -, *, \
-   Assignment operator:=, +=, -+,*=  ,/=,>=,<=,==
-   bitwise operator :& ,| ,!
+   Assignment operator:=, +=, -+,*=  ,/=,>=,<=
+   bitwise operator :& ,| ,!,^
+   Comparison operator :- ===,>=,<=,!=
+   logical operators: && ,||
+   ternary operator:  age >= 18 ? "Adult" : "Minor";
+
+******--------------
+what is romanMap[s[i]]
+s = "IX"
+i = 0
+s[i] = "I" → romanMap["I"] = 1
+s[i+1] = "X" → romanMap["X"] = 10
 
 
