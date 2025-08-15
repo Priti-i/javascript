@@ -9,3 +9,20 @@ else
 {
     statement
 }
+
+*******************************************
+switch statement 
+switch statement is used when you want to run diffrent block of code based on 
+single expression
+example:  switch (expression) {
+  case value1:
+    // Code if expression === value1
+    break;
+
+  case value2:
+    // Code if expression === value2
+    break;
+
+  default:
+    // Code if no case matches
+}
