@@ -1,0 +1,11 @@
+if else statement :- An if...else statement in JavaScript lets you run different blocks 
+of code depending on whether a condition is true or false.
+syntax
+if(expression)
+{
+    statement
+}
+else
+{
+    statement
+}
