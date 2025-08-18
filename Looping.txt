@@ -1,0 +1,5 @@
+looping statement is used to itrate or repeate a multiple time block of code based on condition .
+there are three thype od loop
+1) for loop
+2) while loop
+3) do while loop
