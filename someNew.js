@@ -6,3 +6,6 @@ console.log(a+b + " is the sum of a and b")
 console.log ("1"+1); // it return 11 here not addition its concatination
 console.log("1"-10); // it return -9 here because it converts "1" to number and then subtracts
 
+// take a value from user
+let age=Number(prompt("Enter the number"));
+console.log(age); 
