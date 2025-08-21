@@ -15,3 +15,7 @@ Math.trunc(x)  // Removes the decimal part (just keeps the integer).
 
 console.log(Math.trunc(4.9));  // 4
 console.log(Math.trunc(-4.9)); // -4
+
+Math.abs(x) //  Returns the absolute value.
+
+console.log(Math.abs(-10)); // 10
