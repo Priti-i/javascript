@@ -19,3 +19,10 @@ console.log(Math.trunc(-4.9)); // -4
 Math.abs(x) //  Returns the absolute value.
 
 console.log(Math.abs(-10)); // 10
+
+// Math.max(a, b, c, ...)  Math.min(...)   Largest smallest number.
+console.log(Math.max(10, 20, 5)); // 20
+console.log(Math.min(10, 20, 5)); // 5
+
+// Math.random() → Returns a number between 0 (inclusive) and 1 (exclusive).
+console.log(Math.random()); // 0.0 to 0.999..
