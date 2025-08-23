@@ -1,0 +1,8 @@
+what is array 
+In JavaScript, arrays can store elements of different data types within the same array. This is a key characteristic 
+of JavaScript's dynamic typing, meaning you are not restricted to storing only one type of data in an array, unlike
+ in some other programming languages. For example, a single JavaScript array can contain numbers,
+ strings, booleans, objects, or even other arrays: JavaScript
+
+let mixedArray = [10, "hello", true, { name: "Alice" }, [1, 2, 3]];
+
