@@ -6,3 +6,9 @@ of JavaScript's dynamic typing, meaning you are not restricted to storing only o
 
 let mixedArray = [10, "hello", true, { name: "Alice" }, [1, 2, 3]];
 
+delcare array
+const arr=[];
+let arr = new Array(1, 2, 3, 4, 5);
+[...Array(10).key()] = creating array in project
+
+
