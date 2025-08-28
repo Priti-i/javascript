@@ -11,4 +11,15 @@ const arr=[];
 let arr = new Array(1, 2, 3, 4, 5);
 [...Array(10).key()] = creating array in project
 
+all array function 
+********Mutator Method (Change the original array)**********
+push()=> add element at the end(Stack)
+pop()=> remove element from end(Stack)
+shift()=> remove first element (queue)
+unshift()=> add element first(queue)
+splice()=> add/remove frm specific index
+sort()=> sort the array
+reverse()=> reverse the array
+copyWithin()=>copy part of array to another location in the same array
+
 
