@@ -22,4 +22,14 @@ sort()=> sort the array
 reverse()=> reverse the array
 copyWithin()=>copy part of array to another location in the same array
 
+Accessor Method
+concat() => merge array
+slice() => return a portion of array 
+include() => check if array include this value
+indexOf()  => find first index of value
+lastIndexOf()  => find last index
+toString() => convert array to string
+at() =>get element at specific index
+
+
 
