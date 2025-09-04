@@ -31,5 +31,14 @@ lastIndexOf()  => find last index
 toString() => convert array to string
 at() =>get element at specific index
 
+Method used with array-------------------****************
+forEach():=> it iterate the array and it not change the original array
+array.forEach((data,index)=>
+{
+    console.log(data);
+}
+)
+
+
 
 
