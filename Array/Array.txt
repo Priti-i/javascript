@@ -38,7 +38,11 @@ array.forEach((data,index)=>
     console.log(data);
 }
 )
-2) map()=> t create a new from all array
+2) map()=>  create a new from all array
+array.map((data,index)>{
+    console.log(data);
+})
+3) filter()=> return all array that statify 
 
 
 
