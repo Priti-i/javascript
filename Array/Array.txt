@@ -43,7 +43,18 @@ array.map((data,index)>{
     console.log(data);
 })
 3) filter()=> return all array that statify 
+             The filter() method creates a new array with all elements that pass the test
+              implemented by the provided function.
 
+array.filter(callback(element, index, array))
+callback – Function that returns true to keep the element, or false otherwise.
+element – The current element being processed. 
+
+const numbers = [1, 2, 3, 4, 5, 6];
+const evenNumbers = numbers.filter(num => num % 2 === 0);
+console.log(evenNumbers); 
+
+reducer()=> reduce function is used to reduce array to a single value by applying a function   
 
 
 
