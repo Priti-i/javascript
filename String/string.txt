@@ -1,0 +1,15 @@
+What is a String in JavaScript?
+
+A string is a sequence of characters used to represent text.
+In JavaScript, strings are enclosed in:
+
+Single quotes ('Hello')
+
+Double quotes ("Hello")
+
+Backticks (`Hello` → template literals)
+
+Examples:
+let str1 = "Hello World";   // double quotes
+let str2 = 'JavaScript';    // single quotes
+let str3 = `Today is ${new Date().toDateString()}`;
