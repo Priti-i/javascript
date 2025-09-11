@@ -15,5 +15,39 @@ let str3 = `Today is ${new Date().toDateString()}`;
 str1.length   
 str1[0];           // "H"
 str1.charAt(1);    // "e"
+
 "hello".toUpperCase(); // "HELLO"
 "WORLD".toLowerCase(); // "world"
+
+let str = "   Hello World   ";
+console.log(str.trim()); 
+// "Hello World"
+console.log(str.trimStart());  // remove sace from starting
+console.log(str.trimEnd());
+
+slit()  
+let str = "apple,banana,orange";
+
+// split by comma
+console.log(str.split(",")); 
+// ["apple", "banana", "orange"]
+
+// split into characters
+console.log(str.split(""));  
+// ["a", "p", "p", "l", "e", ",", "b", "a", "n", "a", "n", "a", ",", "o", "r", "a", "n", "g", "e"]
+
+// limit the number of splits
+console.log(str.split(",", 2)); 
+// ["apple", "banana"]
+
+concat ()
+let str1 = "Hello";
+let str2 = "World";
+
+// join with no space
+console.log(str1.concat(str2));  
+// "HelloWorld"
+
+// join with space
+console.log(str1.concat(" ", str2, "!"));  
+// "Hello World!"
