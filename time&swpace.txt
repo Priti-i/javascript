@@ -1,0 +1,7 @@
+1. Time Complexity
+
+Measures how fast an algorithm runs as the input size grows.
+Expressed using Big-O notation (O(1), O(log n), O(n), O(n²), etc.).
+Example:
+Searching in a sorted array using binary search → O(log n)
+Searching in an unsorted array (linear search) → O(n)
