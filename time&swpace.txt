@@ -5,3 +5,16 @@ Expressed using Big-O notation (O(1), O(log n), O(n), O(n²), etc.).
 Example:
 Searching in a sorted array using binary search → O(log n)
 Searching in an unsorted array (linear search) → O(n)
+
+
+Components of Space Complexity
+
+When analyzing, we usually break it down into:
+
+Fixed Part – Constant memory required (independent of input size).
+
+Examples: program code, compiler constants, simple variables.
+
+Variable Part – Memory that depends on input size.
+
+Examples: dynamic memory (arrays, objects), recursion stack, temporary variables.

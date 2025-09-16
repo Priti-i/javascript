@@ -25,7 +25,7 @@ console.log(str.trim());
 console.log(str.trimStart());  // remove sace from starting
 console.log(str.trimEnd());
 
-slit()  
+split()  
 let str = "apple,banana,orange";
 
 // split by comma
