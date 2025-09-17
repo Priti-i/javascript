@@ -1,20 +1,14 @@
-1. Time Complexity
+if input is increase then operation will be more ime Complexity
+Big-O (O) Notation-Describes the upper bound of an algorithm's runtime, 
+                  representing its worst-case scenario. 
 
-Measures how fast an algorithm runs as the input size grows.
-Expressed using Big-O notation (O(1), O(log n), O(n), O(n²), etc.).
-Example:
-Searching in a sorted array using binary search → O(log n)
-Searching in an unsorted array (linear search) → O(n)
+Big-Theta (Θ) Notation: Provides a tight bound by representing both the
+ lower and upper bounds, applicable when an algorithm's running time is the same in all cases.
 
+ Big-Omega (Ω) Notation: Describes the lower bound, or the best-case scenario,
+  of an algorithm's runtime.
 
-Components of Space Complexity
-
-When analyzing, we usually break it down into:
-
-Fixed Part – Constant memory required (independent of input size).
-
-Examples: program code, compiler constants, simple variables.
-
-Variable Part – Memory that depends on input size.
-
-Examples: dynamic memory (arrays, objects), recursion stack, temporary variables.
+  types of Complexity
+  Constant o(1 ):-
+  Lineartime o(n):-
+  quadratic time complexity:-o(n^2) 
